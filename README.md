@@ -1,4 +1,4 @@
-### Nothing here, for now
+Aspiring AI and full stack developer
 
 <!--
 **Scorch9/Scorch9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
